@@ -10,6 +10,8 @@ public static void main(String[] args){
 	System.out.println("Passo 7: Não incentive brincadeiras ou apelidos de mal gosto.");
 	System.out.println("Passo 8: Diminuir outras pessoas não vai te fazer uma pessoa melhor.");
 	System.out.println("Passo 9: Realize campanhas contra a bullying.");
+	System.out.println("Passo 10: Espero que você siga esses 10 passos, evite tragédias.");
+
 
 
 
