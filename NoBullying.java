@@ -6,6 +6,8 @@ public static void main(String[] args){
 	System.out.println("Passo 3: Saiba lidar com esse tipo de situação, nem sempre encontraremos pessoas agradavéis na nossa vida.");
 	System.out.println("Passo 4: Conscientize pessoas que a prática de bullying afeta e destrói vidas.");
 	System.out.println("Passo 5: A melhor forma de conscientização, vem através de palestras.");
+	System.out.println("Passo 6: A educação é a ferramenta mais eficiente contra o bullying, ela nos torna em pessoas melhores.");
+
 
 } 
 } 
