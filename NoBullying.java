@@ -8,6 +8,8 @@ public static void main(String[] args){
 	System.out.println("Passo 5: A melhor forma de conscientização, vem através de palestras.");
 	System.out.println("Passo 6: A educação é a ferramenta mais eficiente contra o bullying, ela nos torna pessoas melhores.");
 	System.out.println("Passo 7: Não incentive brincadeiras ou apelidos de mal gosto.");
+	System.out.println("Passo 8: Diminuir outras pessoas não vai te fazer uma pessoa melhor.");
+
 
 
 
